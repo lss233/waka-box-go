@@ -2,6 +2,8 @@ github.com/YouEclipse/wakatime-go v0.1.0 h1:bZpb2cCWWU4cuid+uCR2DRG0PluQJRsMR0dO
 github.com/YouEclipse/wakatime-go v0.1.0/go.mod h1:h4Y4peXcOv5faIKMvWAao9FCSWxxD8jU7hKtIib2fNA=
 github.com/YouEclipse/wakatime-go v0.1.1 h1:NT6O3iw7SNPI5OG40eVrpTR/f6uCNmvpH8u3koc4kQY=
 github.com/YouEclipse/wakatime-go v0.1.1/go.mod h1:h4Y4peXcOv5faIKMvWAao9FCSWxxD8jU7hKtIib2fNA=
+github.com/YouEclipse/wakatime-go v0.1.2-0.20221018190731-e3134bb99788 h1:r7ZHyoO02GZBW+l1RZCAsFy+gwdgaI8qf4fqsQcdV/M=
+github.com/YouEclipse/wakatime-go v0.1.2-0.20221018190731-e3134bb99788/go.mod h1:h4Y4peXcOv5faIKMvWAao9FCSWxxD8jU7hKtIib2fNA=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 h1:DDGfHa7BWjL4YnC6+E63dPcxHo2sUxDIu8g3QgEJdRY=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
 github.com/google/go-github v17.0.0+incompatible h1:N0LgJ1j65A7kfXrZnUDaYCs/Sf4rEjNlfyDHW9dolSY=
